@@ -22,4 +22,4 @@ _마크다운_
 [네이버](https://www.naver.com/)
 
 ## 이미지
-![수달] (https://media.istockphoto.com/id/2148757239/ko/%EC%82%AC%EC%A7%84/asian-small-clawed-otter.jpg?s=612x612&w=0&k=20&c=UdSSUA792aWjb0pXBbcYxiUHGkq9fJrrK8Oc9c2HYkg=)
+![라이언이미지입니다.](https://w.ryanyang.kr/images/d/d9/%EC%9C%A0%ED%98%B9%ED%95%98%EB%8A%94_%EB%9D%BC%EC%9D%B4%EC%96%B8.png)
